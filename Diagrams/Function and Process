@@ -1,1 +1,118 @@
-<mxfile host="app.diagrams.net" modified="2022-10-30T12:39:13.234Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="_XeiXSKq1SLsy1_NbW31" version="20.5.1" type="github"><diagram name="Page-1" id="2a216829-ef6e-dabb-86c1-c78162f3ba2b">7ZxNc+I4EIZ/Dcek/CVjH4dMJnOYqUpttmqPWwKE8Y6xKFkE2F+/MpaMvwDB2kjKhEugbWT56VbrbUtk5D6tdi8Erpc/8RwlI8ea70bu15HjOK43Zn9yy76w2DZwCktE4jm3HQ1v8b+IGy1u3cRzlNVOpBgnNF7XjTOcpmhGazZICN7WT1vgpH7VNYxQy/A2g0nb+lc8p8vCGgDraP+O4mgprmxb/MgUzn5FBG9Sfr0Up6g4soKiGX5qtoRzvK2Y3OeR+0QwpsW71e4JJTlXQaz43rcTR8suE5RSmS+MYeDN0HRmz9HCB94Db+AdJhtOgfeT7gUW1uV1/na1i3LHP07Xq/SRGydLukrYMZu9fUeExozmDzhFySvOYhrjlB2bYkrxip2Q5AcmJasnnGByuIS7OLwqbXxJ4ij/LsVrZl0jEq8QRfnZ7HZYPKDXo2mCNzSJ07yLGYXpHBJ2r5Nsv5rivGsRShGB7N2kzUrcPbsq2lVMnN0LwuwaZM9OEVHucz/uxWdQfN4eA0bEy7ISK8IGeYhGZctHX7E33F1yrnNarvsTZr9Oug/tWF8mB/Jozl1W8d52GVP0toaz/Nwtc3Q/wNwmMEGiAsx2OogFAxBzTSAGXI2IeVekB5RlhwTbCabCrQdGnlVnZI/bw9DrQOQOgAjoiQiM9UHkyyNaoh2M8mnjEqLqnMC/VJ0T+iDYSF1uB0H/Trl+fJlghY2AuU42WSeLUw6SZmM9gnp0tVOU1yYjbAQlkMbvddnVhYtf/xXHrOflxQUNfu0H0axoAS8WGaIt3OVd3OSBwMS5w+sI2bvNHeEViVELaUmWeDXdZNU0UlP2EaRoC/c1xXmQ+hW1ydwHkwQlL9t+POqH9YHmhW01cC/BabcV59tm+vBK8IxNbOcSUle418dGD6jCsUbCyW5rzV4zdumLz5R92gdt9foHmqH8LlTH6jjQKVYlJGxHrB7VrES4etKEKgS6APQUkPV4HN8jGtsqWJvMaTUmGZWywZbQup26gbJZm/ydUUjo5WdGFcRJQ1SQ4v5kNAXkWiJBCyo3Dq5W2u007Z6p2v5vmrYbc0TDv8MMjLa01mVg2GUKEolC6ci4VVEbMTKCq53z4UeGCCwNBYxtAY1GRtn/4RRM6YvfV8EIqLrWfw0VozYiB67/Sl981n+nfXDN6sXnE6iTGgjo8wjKuWIpQQ+Xnl2vRulwS9W2G1pNvz1a1Zevzo3X1Hh3XDQLGnJf5aKZ0y6LtGBkW7ZGkNolkU6SxG8sIfpAoSRx29VEv5IkvBbP7ydJ3Gv2W91xUI+ty9Xcvca02y4ztGBkW40JNQgVQpKoL5RAau6QUwpJ0+1LoQf0YaTp/qUmI6CSkd9CguYReuMfMaFLHOEUJs9Ha0VMWHU4/yBK93z3M9xQnFcEZQs/cF5BnIeY4Q2Zoe6uin3TkETo1DxdnJLfwVlHSM+vN2Mdq8DKaq4v+WbxUVk6M8u3OO/1ocmbsHsmYQ8+DHZwGburDfbQmCTiGIRVzAEGYLUlsoStTZrwbBVgB0kT4nHTWfCeNuDbAsxY8IFREe+ak0okUrTTe0R3P0ixWf3yGFZeJzYTiRaLPvNGjt5i0Qf3ldPW+QnZ2cs29tCFVsP7RZN9PbvxPHPCw1cRHjePO2AOWImEphFYc+pWR6aC8rUBq6RyvQmse5mrPliVVKY3YZVIsIE2WM2pPCXSa6gLVmBO5Rlextp//XOTqhs79xV1QEmVO5QTHX0Gx8cpYsWarSHgr1kY1GKHlI6b3oLGD2l98dtCBZulgDl1J5BQmyIeFU80QWNXY8A3+A820ZhT5Mp40e69aOjFi2BoLyqpqIeZ1iQWz/r38s1J0JzS0JEQakCb9TNgTnEoZo6zs4ulC1hfSXk4TKqQeTjX+7R+M/iPs3DpmhXxStbPhgEvI4G0ecDnm1MhiGjVAiz7ePzPm4U6PP5rU/f5Pw==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-10-30T14:32:56.996Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="-JEVKuzpf3Rc1ZA33mPV" version="20.5.1" type="github">
+  <diagram name="Page-1" id="2a216829-ef6e-dabb-86c1-c78162f3ba2b">
+    <mxGraphModel dx="1398" dy="611" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="H_ujD5Bim6BfPBEH0JAX-4" value="Impostazioni" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="50" width="170" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="H_ujD5Bim6BfPBEH0JAX-5" value="Utenti" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="H_ujD5Bim6BfPBEH0JAX-6" value="Ruoli&amp;nbsp;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="H_ujD5Bim6BfPBEH0JAX-7" value="Permessi" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="355" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="H_ujD5Bim6BfPBEH0JAX-8" value="Controparti" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="510" width="170" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="H_ujD5Bim6BfPBEH0JAX-9" value="Lista Controparti" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="585" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="H_ujD5Bim6BfPBEH0JAX-10" value="Inserisci" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="H_ujD5Bim6BfPBEH0JAX-11" value="Modifica" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="575" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="H_ujD5Bim6BfPBEH0JAX-12" value="Home" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="55" width="170" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="H_ujD5Bim6BfPBEH0JAX-13" value="KPI" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="H_ujD5Bim6BfPBEH0JAX-14" value="Reports" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="710" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="H_ujD5Bim6BfPBEH0JAX-15" value="Casella PEC" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="H_ujD5Bim6BfPBEH0JAX-16" value="Template" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="H_ujD5Bim6BfPBEH0JAX-17" value="Dettaglio" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="650" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="H_ujD5Bim6BfPBEH0JAX-18" value="Lista Fiduciari" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="740" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="H_ujD5Bim6BfPBEH0JAX-19" value="Accreditamento" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="850" width="170" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="H_ujD5Bim6BfPBEH0JAX-21" value="Inviti" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="225" y="940" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="H_ujD5Bim6BfPBEH0JAX-22" value="Richieste Inviate" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="225" y="1020" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="H_ujD5Bim6BfPBEH0JAX-23" value="Richiedi Accreditamento" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="225" y="1100" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="H_ujD5Bim6BfPBEH0JAX-24" value="Aggiorna con Nuovi Dati" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="225" y="1190" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="H_ujD5Bim6BfPBEH0JAX-25" value="Completa con Accreditamento" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="225" y="1280" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="H_ujD5Bim6BfPBEH0JAX-26" value="Lista Inviti" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="940" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="H_ujD5Bim6BfPBEH0JAX-27" value="Invita ad Accreditarsi" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="870" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="H_ujD5Bim6BfPBEH0JAX-28" value="Importa" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="920" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="H_ujD5Bim6BfPBEH0JAX-30" value="MODULO: 1&lt;br&gt;Anagrafica Azienda&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="930" y="1030" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="H_ujD5Bim6BfPBEH0JAX-31" value="MODULO: 2&lt;br&gt;Casella PEC" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="930" y="1130" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="H_ujD5Bim6BfPBEH0JAX-32" value="MODULO: 3&lt;br&gt;Gestione Utenti" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="930" y="1220" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="H_ujD5Bim6BfPBEH0JAX-33" value="MODULO: 4&lt;br&gt;Censimento Fiduciari" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="930" y="1310" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="H_ujD5Bim6BfPBEH0JAX-34" value="MODULO: 5&lt;br&gt;Gestione Accreditamento" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="930" y="1410" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="H_ujD5Bim6BfPBEH0JAX-36" value="MODULO: 6&lt;br&gt;Accreditamento ONLINE" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="930" y="1510" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="H_ujD5Bim6BfPBEH0JAX-37" value="MODULO: 7&lt;br&gt;Gestione Revoca" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1090" y="1030" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="H_ujD5Bim6BfPBEH0JAX-38" value="MODULO: 8&lt;br&gt;Gestione Messaggi" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1090" y="1130" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="H_ujD5Bim6BfPBEH0JAX-39" value="MODULO: 9&lt;br&gt;Importazioni CHIAVI" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1090" y="1230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="H_ujD5Bim6BfPBEH0JAX-40" value="MODULO: 10&lt;br&gt;Trasmissione CHIAVI" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1090" y="1320" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="H_ujD5Bim6BfPBEH0JAX-41" value="MODULO: 11&lt;br&gt;Invio CHIAVI" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1090" y="1410" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="H_ujD5Bim6BfPBEH0JAX-42" value="MODULO: 11&lt;br&gt;Ricezione CHIAVI" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1090" y="1510" width="120" height="70" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
